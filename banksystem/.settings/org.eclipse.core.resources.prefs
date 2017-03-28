@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/cjg/bank/persistence/TradeDAO.java=gb2312
+encoding//src/com/cjg/bank/persistence/TradeDAOImpl.java=gb2312
+encoding//src/com/cjg/bank/persistence/UserDAO.java=gb2312
+encoding//src/com/cjg/bank/service/UserFacade.java=gb2312
